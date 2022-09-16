@@ -10,4 +10,9 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
+-Install Docker
+-Run "docker-compose up" in project root
+-Check backend at: http://localhost:3000/api/ping
+-Check front-end by creating user at: http://localhost:3001/register
+
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
